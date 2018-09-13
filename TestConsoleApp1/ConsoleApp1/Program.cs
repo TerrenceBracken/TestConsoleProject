@@ -13,6 +13,7 @@ namespace ConsoleApp1
 
             //here is some work the server dont have.
 
+            //here is some work the client dont have
         }
     }
 }
